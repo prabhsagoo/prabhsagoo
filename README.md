@@ -12,7 +12,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prabhsagoo&icon=0&color=2)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=prabhsagoo&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
